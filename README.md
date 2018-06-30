@@ -8,8 +8,6 @@
 ## About
 The motivation of this project has been to study why and how the accidents in the UK occur, taking into account the circumstances, casualties and vehicles involved.
 
-This study has been done for the 
-
 This study was done as an assignment for the subject called *Algorithmics for Data Mining* (ADM) for Facultat d'Informatica de Barcelona at Universitat Politecnica de Catalunya (FIB - UPC). This subject is from the Master in Innovation and Research in Informatics at said university.
 
 ## Date
